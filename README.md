@@ -54,7 +54,7 @@
 
 文章详情页
 
-![文章详情页](http://cdn.alanliang.site/blog3.png)
+![文章详情页](http://cdn.alanliang.site/blog4.png)
 
 后台首页
 
