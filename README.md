@@ -42,15 +42,19 @@
 
 前台首页1
 
-![前台首页1](cdn-alanliang-site-idvbri9.qiniudns.com/2020-08-29_171306.png)
+![前台首页1](http://cdn.alanliang.site/blog1.png)
 
 前台首页2
 
-![前台首页2](http://cdn.alanliang.site/geekblog前台首页2.png)
+![前台首页2](http://cdn.alanliang.site/blog2.png)
+
+前台关于我页
+
+![前台首页2](http://cdn.alanliang.site/blog3.png)
 
 文章详情页
 
-![文章详情页](http://cdn.alanliang.site/geekblog文章详情.png)
+![文章详情页](http://cdn.alanliang.site/blog3.png)
 
 后台首页
 
