@@ -5,7 +5,7 @@
 - 使用当前流行的框架组合SpringBoot+Mybatis，同时整合MybatisPlus插件取代常用的CRUD，简化开发。
 - 基于RBAC模型构建权限管理模块，并集成安全框架SpringSecurity，实现用户的认证和授权。
 - 使用Spring Data集成缓存中间件Redis，加快访问速度。
-- 使用Spring Data集成全文搜索搜索引擎ElasticSearch，实现文章信息的快速搜索和关键字的高亮显示。
+- 使用Spring Data集成全文搜索引擎ElasticSearch，实现文章信息的快速搜索和关键字的高亮显示。
 - 前台前端使用HTTP客户端Axios进行异步请求，使用Vue完成数据的绑定和渲染，实现前后端的半分离。
 - 前台静态页面来自：Hexo博客Matery主题（项目地址：https://github.com/blinkfox/hexo-theme-matery)，后台模板来自layuimini（主页：http://layuimini.99php.cn/）。
 - 页面使用响应式框架：Materialize（前台）和Layui（后台），支持电脑、平板、手机等所有主流设备访问。
