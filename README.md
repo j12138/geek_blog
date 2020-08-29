@@ -42,7 +42,7 @@
 
 前台首页1
 
-![前台首页1](http://cdn.alanliang.site/geekblog前台首页1.png)
+![前台首页1](cdn-alanliang-site-idvbri9.qiniudns.com/2020-08-29_171306.png)
 
 前台首页2
 
